@@ -4,13 +4,12 @@ import React, { useState, useEffect } from "react";
 const BUSINESS_NAME = "VR TEX";
 const PERSON_NAME = "REGURAMAN V";
 const BUSINESS_DESC =
-  "Supplying cotton, yarn, waste, and all types of knitted and woven fabrics with trusted expertise and dependable service.";
+  "Supplying cotton, yarn, and all types of knitted and woven fabrics with trusted expertise and dependable service.";
 const CLIENT_NOTE =
   "Your reliable partner in sourcing quality materials and building lasting business relationships.";
 const SPECIALISATIONS = [
   "Cotton",
   "Yarn",
-  "Waste",
   "Knitted & Woven Fabrics"
 ];
 const PHONE = "9865210615";
