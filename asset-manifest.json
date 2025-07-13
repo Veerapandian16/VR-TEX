@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VR-TEX/static/css/main.e6c13ad2.css",
+    "main.js": "/VR-TEX/static/js/main.6999c15e.js",
+    "static/js/453.8b5a7c40.chunk.js": "/VR-TEX/static/js/453.8b5a7c40.chunk.js",
+    "index.html": "/VR-TEX/index.html",
+    "main.e6c13ad2.css.map": "/VR-TEX/static/css/main.e6c13ad2.css.map",
+    "main.6999c15e.js.map": "/VR-TEX/static/js/main.6999c15e.js.map",
+    "453.8b5a7c40.chunk.js.map": "/VR-TEX/static/js/453.8b5a7c40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6999c15e.js"
+  ]
+}
